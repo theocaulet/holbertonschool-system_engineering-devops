@@ -1,0 +1,1 @@
+![alt text](distributed_web_infrastructure.png)
